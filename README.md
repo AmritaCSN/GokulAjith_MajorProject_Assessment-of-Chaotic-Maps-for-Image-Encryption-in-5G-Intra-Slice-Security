@@ -7,7 +7,21 @@ With the rise of 5G, securing intra-slice communication is crucial due to the tr
 
 # DATASETS
 
-The dataset used for the image encryption experiments is sourced from Kaggle and comprises a combined collection from the well-known Set5 and Set14 datasets. The Set5 dataset, originally introduced in the paper "Low-Complexity Single Image Super-Resolution based on Nonnegative Neighbor Embedding" by Marco Bevilacqua et al., includes five commonly referenced images titled "baby," "bird," "butterfly," "head," and "woman." These images are widely used as standard benchmarks for evaluating the performance of single-image super-resolution models.For the purposes of this study, all images were used in color (.png format) and resized to four different resolutions: 128 × 128, 256 × 256, 512 × 512, and 1024 × 1024 pixels. This range of image sizes allows for a comprehensive evaluation of the proposed encryption scheme's scalability, consistency, and performance across varying levels of data complexity. 
+The dataset used for the image encryption experiments is sourced from Kaggle and comprises a combined collection from the well-known Set5 and Set14 datasets. The Set5 dataset, originally introduced in the paper "Low-Complexity Single Image Super-Resolution based on Nonnegative Neighbor Embedding" by Marco Bevilacqua et al., includes five commonly referenced images titled "baby," "bird," "butterfly," "head," and "woman." These images are widely used as standard benchmarks for evaluating the performance of single-image super-resolution models. For the purposes of this study, all images were used in color (.png format) and resized to four different resolutions: 128 × 128, 256 × 256, 512 × 512, and 1024 × 1024 pixels. This range of image sizes allows for a comprehensive evaluation of the proposed encryption scheme's scalability, consistency, and performance across varying levels of data complexity. 
+
+# PERFOMANCE & SECURITY ANALYSIS
+
+1. Time and Memory Usage
+
+2. Key Sensitivity Analysis
+3. Differential Cryptanalysis
+4. Histogram Analysis
+5. Contrast Analysis
+6. Entropy Analysis
+7. Correlation Analysis
+8. PSNR Analysis
+These are the analysis done in this project, and the respective code and images used for analysis are uploaded here.
+   
 
 # SOFTWARES/LIBRARIES
 
@@ -32,3 +46,8 @@ Visual Studio Code (VS Code) is a lightweight, open-source code editor widely us
 
 6.MATLAB:
 MATLAB is a high-level programming platform used for algorithm development, simulation, and mathematical modeling, particularly effective for analyzing chaotic maps and visualizing encryption behavior in controlled environments.
+
+# FILE STRUCTURE
+<img width="463" alt="image001" src="https://github.com/user-attachments/assets/068c0029-6882-4403-a022-28886dcbe354" />
+
+
