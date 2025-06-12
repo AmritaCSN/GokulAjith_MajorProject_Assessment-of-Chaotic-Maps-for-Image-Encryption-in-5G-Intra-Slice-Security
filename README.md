@@ -20,6 +20,7 @@ The dataset used for the image encryption experiments is sourced from Kaggle and
 6. Entropy Analysis
 7. Correlation Analysis
 8. PSNR Analysis
+   
 These are the analysis done in this project, and the respective code and images used for analysis are uploaded here.
    
 
